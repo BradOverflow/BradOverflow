@@ -10,6 +10,4 @@ https://github-profile-trophy.vercel.app/?username=BradOverflow-ma&theme=tokyoni
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BradOverlfow&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=BradOverflow&color=blueviolet)
-<!-- Markdown -->
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)

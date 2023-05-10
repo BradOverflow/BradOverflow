@@ -3,3 +3,4 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 ![](https://komarev.com/ghpvc/?username=BradOverflow&color=blueviolet)
+https://bradoverflow.github.io/csNoteWebsite/dw.pdf
